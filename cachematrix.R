@@ -39,4 +39,3 @@ cacheSolve <- function(x, ...) {
         x$setinv_mtrx(inv_mtrx)
         inv_mtrx
 }
-}

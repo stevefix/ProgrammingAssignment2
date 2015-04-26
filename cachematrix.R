@@ -6,7 +6,6 @@
 ## $getinv_mtrx returns cached inverse of matrix from variable inv_mtrx
 
 
-
 makeCacheMatrix <- function(x = matrix()) {
         inv_mtrx <- NULL
         set <- function(y) {
